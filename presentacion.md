@@ -1,0 +1,4 @@
+- **Nombre completo:** Matías Gabriel Ariel Rojas Valdebenito
+- **Número de Matricula:** 2026004038
+- **Carrera:** Ingienería Informática
+- **Fecha:** 08/05/2026

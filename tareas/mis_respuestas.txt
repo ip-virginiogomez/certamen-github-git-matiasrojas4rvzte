@@ -10,21 +10,22 @@ PREGUNTA 1 (5 pts)
 ¿Cuál es la diferencia entre "git add" y "git commit"?
 
 Tu respuesta:
-[Escribe aquí]
-
+[Con git add, seleccionas los cambios o archivos nuevos de la carpeta de trabajo y los deja listos en espera para que Git los registre.]
+[git commit genera una captura de todo tu repositorio en un momento específico, el commit sirve para tener claro los cambios que se hicieron y en qué momento]
+[La diferencia entre estos 2 es que add a rasgos muy grandes es una intención y commit es la acción.]
 ----------------------------------------------------------------
 PREGUNTA 2 (5 pts)
 ¿Qué hace el comando "git pull"? ¿Cuándo debes usarlo?
 
 Tu respuesta:
-[Escribe aquí]
+[Como su nombre lo indica git pull se encarga de traer los archivos para manipularlos, entonces es ideal para usarlo en momentos donde se debe iniciar un trabajo, ya sea en equipo o solo, o si me encuentro en otra pc.]
 
 ----------------------------------------------------------------
 PREGUNTA 3 (5 pts)
 ¿Qué diferencia hay entre un repositorio local y uno remoto?
 
 Tu respuesta:
-[Escribe aquí]
+[El repositorio local es uno el cual se encuentra en mi pc y puedo manipularlo desde ella, en cambio uno remoto está en la nube y puedo acceder a el desde cualquier pc que tenga los requerimientos minimos.]
 
 ----------------------------------------------------------------
 PREGUNTA 4 (5 pts)
@@ -32,7 +33,7 @@ Escribe la secuencia completa de comandos para subir un nuevo
 archivo llamado "datos.csv" a GitHub (desde git add hasta push):
 
 Tu respuesta:
-[Escribe aquí]
+[se empieza por un git add datos.csv despues git commit -m y dar una descripción sobre que cambio se realizo o algún nombre el cual se ubique y se sepa que se hizo y por último git push origin main para subirlo. obviamente hay que tener todo loggeado antes de estos pasos.]
 
 ----------------------------------------------------------------
 FIN DEL ARCHIVO
